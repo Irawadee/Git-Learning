@@ -1,4 +1,4 @@
-Git basics, This is another commit!
+Git basics, This is a commit!
 
 Well, here is the following change!
 
